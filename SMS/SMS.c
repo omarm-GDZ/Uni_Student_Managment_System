@@ -11,7 +11,6 @@ struct node{
 	struct node* next;
 };
 struct node* head=NULL;
-
 void addStudent(const struct student* const ptr);
 void displayStudents(void);
 void searchStudentByID(int id);
