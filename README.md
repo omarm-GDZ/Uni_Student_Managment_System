@@ -12,4 +12,5 @@ This system utilizes fundamental programming concepts including conditions,  loo
 - **Calculate Average GPA**: Compute the average GPA across all students in the database.
 - **Find Top Student**: Identify the student with the highest GPA and display their information.
 - **Exit**: Close the application.
+
 https://github.com/user-attachments/assets/bec11ab3-5000-42d0-80fb-9d2820232626
