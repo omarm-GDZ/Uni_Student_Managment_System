@@ -3,4 +3,4 @@ The Student Management System is a C program designed to manage student  informa
 This system utilizes fundamental programming concepts including conditions,  loops, strings, structs, and pointers, besides the ability to use data structures  efficiently like the linked list. 
 
 [![Watch the video]
-(https://raw.githubusercontent.com/omarm-GDZ/Uni_Student_Managment_System/main/Project_1.mp4)
+(https://raw.githubusercontent.com/omarm-GDZ/Uni_Student_Managment_System/main/assets/Project 1.mp4)
